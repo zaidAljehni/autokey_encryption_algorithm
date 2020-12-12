@@ -1,1 +1,1 @@
-# autokey_encryption_algorithm
+# Multiplicative_cipher_encryption_algorithm
