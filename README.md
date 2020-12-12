@@ -1,1 +1,1 @@
-# Multiplicative_cipher_encryption_algorithm
+Muliplicative Cipher using Java
