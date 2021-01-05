@@ -5,6 +5,11 @@ import java.util.Map;
 
 public class Utils 
 {
+	/**
+		this is a new update
+		on January 5th 08:14 AM
+	**/
+	
 	private Map<Character , Integer> alphabet;
 	
 	
