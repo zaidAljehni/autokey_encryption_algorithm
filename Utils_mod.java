@@ -13,6 +13,12 @@ public class Utils
 	private Map<Character , Integer> alphabet;
 	
 	
+	/**
+		Utility methods
+		
+		this is a new update
+		on January 5th 08:16 AM
+	**/
 	public Utils()
 	{
 		alphabet = new HashMap< Character , Integer >();
